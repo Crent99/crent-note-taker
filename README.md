@@ -10,8 +10,7 @@
 
 ## Link
 
-Link to Deployed Application: 
-
+Link to Deployed Application: (https://radiant-fortress-44364-716f57433a35.herokuapp.com)
 ## Description 
 
 This application was made to help people keep track of their thoughts by typing things down in virtual "note taker", this app lets you write whatever you want and after it'll appear on the left side of the screen for whenever you want to view it and you will also have the option to delete any of the notes you take.
